@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+.author-title{
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 300%;
+    margin: 2% auto;
+    text-align: center;
+}
+
+.form-required{
+    text-align: center;
+}
+
+.form-required input{
+    padding: 2px 2px;
+    margin: 1% 5px;
+    width: 25%;
+    height: 25px;
+    outline: .1px solid grey;
+    border: none;
+    text-align: center;
+}
+
+.form-required .limiter{
+    width: 10%;
+    text-align: center;
+}
+
+.form-required button{
+    font-family: monospace;
+    padding: 7px 10px;
+    border: none;
+    outline: solid .1px grey;
+    width: 20%;
+    margin: 0 5px;
+    background-color: grey;
+    color: antiquewhite;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.cards{
+    width: 95%;
+    margin: 1% auto;
+    text-align: center;
+}
